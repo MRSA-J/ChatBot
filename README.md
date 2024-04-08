@@ -4,7 +4,7 @@ This repository contains a full-stack chatbot web application that integrates GP
 
 ## Demo
 
-Currently working on deployment, since the model seems to be too big, every time when I try to deploy it on vercel, it crashes when I'm asking it something. It works fine locally.
+![Alive!](https://chat-pa1u5moxe-chen-weis-projects.vercel.app/)
 
 ![Demo](./sample.png)
 
