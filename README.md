@@ -4,7 +4,7 @@ This repository contains a full-stack chatbot web application that integrates GP
 
 ## Demo
 
-![Alive!](https://chat-pa1u5moxe-chen-weis-projects.vercel.app/)
+[Alive!](https://chat-pa1u5moxe-chen-weis-projects.vercel.app/)
 
 ![Demo](./sample.png)
 
